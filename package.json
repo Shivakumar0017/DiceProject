@@ -1,0 +1,15 @@
+{
+  "name": "diceproject",
+  "version": "1.0.0",
+  "description": "Dice project but hosted on a local host via node and express js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ShivaKumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
